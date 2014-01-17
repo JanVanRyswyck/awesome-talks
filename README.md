@@ -7,7 +7,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 * [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay**
 * [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor**
-* [Programming is terrible—Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c)
+* [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c)
 * [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) by **Robert C. Martin**
 * [The Mistake at the Heart of Agile (and how to get past it)](http://ndc2011.macsimum.no/mp4/Day1%20Wednesday/Track4%201500-1600.mp4) by **Michael Feathers**
 * [A Lecture on Creativity](https://www.youtube.com/watch?v=ijtQP9nwrQA) by **John Cleese**
@@ -19,7 +19,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Strategic Design](http://www.infoq.com/presentations/strategic-design-evans) by **Eric Evans**
 * [Reliability, Availability, and Scalability](https://vimeo.com/6222577) by **Udi Dahan**
 * [Crafting Wicked Domain Models](https://vimeo.com/43598193) by **Jimmy Bogard**
-* [Apublic Lecture Series at Yahoo!](http://yuiblog.com/crockford/) by **Crockford on JavaScript**
+* [Crockford on JavaScript](http://yuiblog.com/crockford/) by **Douglas Crockford**
 * [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) by **Ryan Dahl**
 * [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernardt**
 * [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) by **Brian Lonsdorf**
