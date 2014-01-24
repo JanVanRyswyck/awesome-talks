@@ -27,3 +27,4 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) by **Chris Williams**
 * [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford**
 * [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by **Anil Dash**
+* [Architecture the Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) by **Robert C. Martin**
