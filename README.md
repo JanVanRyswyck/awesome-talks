@@ -7,8 +7,9 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 * [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay**
 * [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor**
-* [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c)
+* [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) by **Thomas Figg**
 * [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) by **Robert C. Martin**
+* [Architecture the Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) by **Robert C. Martin**
 * [The Mistake at the Heart of Agile (and how to get past it)](http://ndc2011.macsimum.no/mp4/Day1%20Wednesday/Track4%201500-1600.mp4) by **Michael Feathers**
 * [A Lecture on Creativity](https://www.youtube.com/watch?v=ijtQP9nwrQA) by **John Cleese**
 * [Functional Principles for Object-Oriented Developers](https://vimeo.com/78909069) by **Jessica Kerr**
@@ -27,4 +28,3 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) by **Chris Williams**
 * [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford**
 * [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by **Anil Dash**
-* [Architecture the Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) by **Robert C. Martin**
