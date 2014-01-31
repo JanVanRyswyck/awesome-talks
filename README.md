@@ -1,4 +1,3 @@
-
 #Awesome talks
 
 There are a lot of screencasts, recordings of user group gatherings and conference talks available online. I try to commit myself watching at least two new talks every week, and I've been doing this for quite some time now. I created this list of online talks that I really enjoyed watching. I'll also be updating this list whenever I've watched another *awesome* talk that is worthy enough. Suggestions are always appreciated through a pull request. So without further ado ..
@@ -29,3 +28,4 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford**
 * [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by **Anil Dash**
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey**
+* [TDD, where did it all go wrong](http://vimeo.com/68375232) by **Ian Cooper**
