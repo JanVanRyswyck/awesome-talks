@@ -14,7 +14,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * DONE - [Functional Principles for Object-Oriented Developers](https://vimeo.com/78909069) by **Jessica Kerr**
 * [Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons) by **Gilad Bracha**
 * [The Actor Model](http://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask) by **Hewitt, Meijer and Szyperski**
-* [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich**
+* DONE - [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich**
 * [DDD: putting the model to work](http://www.infoq.com/presentations/model-to-work-evans) by **Eric Evans**
 * [Unleash Your Domain](https://vimeo.com/19428577) by **Greg Young**
 * [Strategic Design](http://www.infoq.com/presentations/strategic-design-evans) by **Eric Evans**
