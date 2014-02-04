@@ -10,7 +10,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * DONE - [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) by **Robert C. Martin**
 * DONE - [Architecture the Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) by **Robert C. Martin**
 * DONE - [The Mistake at the Heart of Agile (and how to get past it)](http://ndc2011.macsimum.no/mp4/Day1%20Wednesday/Track4%201500-1600.mp4) by **Michael Feathers**
-* [A Lecture on Creativity](https://www.youtube.com/watch?v=ijtQP9nwrQA) by **John Cleese**
+* DONE - [A Lecture on Creativity](https://www.youtube.com/watch?v=ijtQP9nwrQA) by **John Cleese**
 * [Functional Principles for Object-Oriented Developers](https://vimeo.com/78909069) by **Jessica Kerr**
 * [Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons) by **Gilad Bracha**
 * [The Actor Model](http://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask) by **Hewitt, Meijer and Szyperski**
