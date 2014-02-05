@@ -22,7 +22,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * DONE - [Crafting Wicked Domain Models](https://vimeo.com/43598193) by **Jimmy Bogard**
 * [Crockford on JavaScript](http://yuiblog.com/crockford/) by **Douglas Crockford**
 * [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) by **Ryan Dahl**
-* [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernardt**
+* DONE - [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernardt**
 * [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) by **Brian Lonsdorf**
 * [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) by **Chris Williams**
 * [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) by **Chris Williams**
