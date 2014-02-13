@@ -31,3 +31,4 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey**
 * [TDD, where did it all go wrong](http://vimeo.com/68375232) by **Ian Cooper**
 * [Holistic testing](http://vimeo.com/68390508) by **Jimmy Bogard**
+* [Adopting Continuous Delivery](http://vimeo.com/68320415) by **Jez Humble**
