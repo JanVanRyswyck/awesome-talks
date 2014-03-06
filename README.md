@@ -31,3 +31,4 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by **Anil Dash**
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey**
 * [TDD, where did it all go wrong](http://vimeo.com/68375232) by **Ian Cooper**
+* [How To Design A Good API and Why it Matters](http://www.youtube.com/watch?v=aAb7hSCtvGw) by **Josh Bloch**
