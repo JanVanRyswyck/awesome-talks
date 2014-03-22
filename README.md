@@ -30,6 +30,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) by **Chris Williams**
 * [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford**
 * [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by **Anil Dash**
+* [Are We There Yet](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey**
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey**
 * [TDD, where did it all go wrong](http://vimeo.com/68375232) by **Ian Cooper**
 * [Holistic testing](http://vimeo.com/68390508) by **Jimmy Bogard**
