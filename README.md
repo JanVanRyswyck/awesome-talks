@@ -38,4 +38,5 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [REST Api design](https://www.youtube.com/watch?v=HW9wWZHWhnI) by **Brian Sletten**
 * [GZIP is not enough! (partial css and js updates in gmail)](http:/www.youtube.com/watch?v=whGwm0Lky2s) by *Google?* 
 * [What makes Python so AWESOME](http://www.youtube.com/watch?v=u1sVfGEBKWQ) by **Raymond Hettinger**
+* [Busy Java Developer's Guide to Scala: Thinking ](https://www.youtube.com/watch?v=_qRYOayG9SM) by **Ted Neward**
 
