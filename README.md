@@ -6,6 +6,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 * [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay**
 * [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor**
+* [Inventing on Principle](https://vimeo.com/36579366) by **Bret Victor**
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) by **Thomas Figg**
 * [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) by **Robert C. Martin**
 * [Architecture the Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) by **Robert C. Martin**
