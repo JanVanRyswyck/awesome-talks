@@ -39,3 +39,10 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Holistic testing](http://vimeo.com/68390508) by **Jimmy Bogard**
 * [Adopting Continuous Delivery](http://vimeo.com/68320415) by **Jez Humble**
 * [How To Design A Good API and Why it Matters](http://www.youtube.com/watch?v=aAb7hSCtvGw) by **Josh Bloch**
+* [REST Api design](https://www.youtube.com/watch?v=HW9wWZHWhnI) by **Brian Sletten**
+* [GZIP is not enough! (partial css and js updates in gmail)](http:/www.youtube.com/watch?v=whGwm0Lky2s) by *Google?* 
+* [What makes Python so AWESOME](http://www.youtube.com/watch?v=u1sVfGEBKWQ) by **Raymond Hettinger**
+* [Busy Java Developer's Guide to Scala: Thinking ](https://www.youtube.com/watch?v=_qRYOayG9SM) by **Ted Neward**
+* [Up, Up, and Out: Scaling Software with Akka ](https://www.youtube.com/watch?v=GBvtE61Wrto&index=7) by **Victor Klang**
+* [Google Cloud Platform Live: Keynote](https://www.youtube.com/watch?v=qokEYBNWA_0) by **Urs Hölzle**
+
