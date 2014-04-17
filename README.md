@@ -39,4 +39,6 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [GZIP is not enough! (partial css and js updates in gmail)](http:/www.youtube.com/watch?v=whGwm0Lky2s) by *Google?* 
 * [What makes Python so AWESOME](http://www.youtube.com/watch?v=u1sVfGEBKWQ) by **Raymond Hettinger**
 * [Busy Java Developer's Guide to Scala: Thinking ](https://www.youtube.com/watch?v=_qRYOayG9SM) by **Ted Neward**
+* [Up, Up, and Out: Scaling Software with Akka ](https://www.youtube.com/watch?v=GBvtE61Wrto&index=7) by **Victor Klang**
+* [Google Cloud Platform Live: Keynote](https://www.youtube.com/watch?v=qokEYBNWA_0) by **Urs Hölzle**
 
