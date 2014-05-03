@@ -24,6 +24,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Strategic Design](http://www.infoq.com/presentations/strategic-design-evans) by **Eric Evans**
 * [Reliability, Availability, and Scalability](https://vimeo.com/6222577) by **Udi Dahan**
 * [Implementing Micro Service Architectures](https://vimeo.com/79866979) by **Fred George**
+* [Immutability Changes Everything](http://vimeo.com/52831373) by **Pat Helland**
 * [Crafting Wicked Domain Models](https://vimeo.com/43598193) by **Jimmy Bogard**
 * [Crockford on JavaScript](http://yuiblog.com/crockford/) by **Douglas Crockford**
 * [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) by **Ryan Dahl**
