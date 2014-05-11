@@ -17,6 +17,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr**
 * [Adventures in Functional Programming](https://vimeo.com/45140590) by **Jim Weirich**
 * [Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons) by **Gilad Bracha**
+* [Living in a Post-Functional World](http://www.infoq.com/presentations/post-functional-scala-clojure-haskell) by **Daniel Spiewak**
 * [The Actor Model](http://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask) by **Hewitt, Meijer and Szyperski**
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich**
 * [DDD: putting the model to work](http://www.infoq.com/presentations/model-to-work-evans) by **Eric Evans**
