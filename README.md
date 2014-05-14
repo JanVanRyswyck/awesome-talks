@@ -9,6 +9,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Inventing on Principle](https://vimeo.com/36579366) by **Bret Victor**
 * [Finding a Way Out](http://www.infoq.com/presentations/reimagining-software) by **Chris Granger**
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) by **Thomas Figg**
+* [Computers are a Sadness, I am the Cure](https://vimeo.com/95066828) by **James Mickens**
 * [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) by **Robert C. Martin**
 * [Architecture the Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) by **Robert C. Martin**
 * [The Mistake at the Heart of Agile (and how to get past it)](http://ndc2011.macsimum.no/mp4/Day1%20Wednesday/Track4%201500-1600.mp4) by **Michael Feathers**
