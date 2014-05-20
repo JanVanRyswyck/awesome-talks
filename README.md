@@ -43,3 +43,4 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Holistic testing](http://vimeo.com/68390508) by **Jimmy Bogard**
 * [Adopting Continuous Delivery](http://vimeo.com/68320415) by **Jez Humble**
 * [How To Design A Good API and Why it Matters](http://www.youtube.com/watch?v=aAb7hSCtvGw) by **Josh Bloch**
+* [Is TDD Dead? - Part 1](https://www.youtube.com/watch?v=z9quxZsLcfo) by **Martin Fowler, Kent Beck, and David Heinemeier Hansson (DHH)**
