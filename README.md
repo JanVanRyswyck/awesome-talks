@@ -30,8 +30,8 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Crafting Wicked Domain Models](https://vimeo.com/43598193) by **Jimmy Bogard**
 * [Crockford on JavaScript](http://yuiblog.com/crockford/) by **Douglas Crockford**
 * [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) by **Ryan Dahl**
-* [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernardt**
-* [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by **Gary Bernardt**
+* [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernhardt**
+* [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by **Gary Bernhardt**
 * [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) by **Gary Bernhardt**
 * [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) by **Brian Lonsdorf**
 * [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) by **Chris Williams**
