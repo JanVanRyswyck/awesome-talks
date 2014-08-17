@@ -19,6 +19,8 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Adventures in Functional Programming](https://vimeo.com/45140590) by **Jim Weirich**
 * [Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons) by **Gilad Bracha**
 * [Living in a Post-Functional World](http://www.infoq.com/presentations/post-functional-scala-clojure-haskell) by **Daniel Spiewak**
+* [Tangible Functional Programming](https://www.youtube.com/watch?v=faJ8N0giqzw) by **Conal Elliott**
+* [Faith, Evolution, and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) by **Phillip Wadler**
 * [The Actor Model](http://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask) by **Hewitt, Meijer and Szyperski**
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich**
 * [DDD: putting the model to work](http://www.infoq.com/presentations/model-to-work-evans) by **Eric Evans**
@@ -45,5 +47,4 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Adopting Continuous Delivery](http://vimeo.com/68320415) by **Jez Humble**
 * [How To Design A Good API and Why it Matters](http://www.youtube.com/watch?v=aAb7hSCtvGw) by **Josh Bloch**
 * [Is TDD Dead? - Part 1](https://www.youtube.com/watch?v=z9quxZsLcfo) by **Martin Fowler, Kent Beck, and David Heinemeier Hansson (DHH)**
-* [Tangible Functional Programming](https://www.youtube.com/watch?v=faJ8N0giqzw) by **Conal Elliott**
-* [Faith, Evolution, and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) by **Phillip Wadler**
+
