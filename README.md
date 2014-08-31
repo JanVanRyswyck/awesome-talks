@@ -23,6 +23,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Faith, Evolution, and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) by **Phillip Wadler**
 * [The Actor Model](http://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask) by **Hewitt, Meijer and Szyperski**
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich**
+* [Functional is cool, but do you know OO](http://www.parleys.com/play/51aa0172e4b01033a7e4b67a/) by **Sandro Mancuso**
 * [DDD: putting the model to work](http://www.infoq.com/presentations/model-to-work-evans) by **Eric Evans**
 * [Unleash Your Domain](https://vimeo.com/19428577) by **Greg Young**
 * [Strategic Design](http://www.infoq.com/presentations/strategic-design-evans) by **Eric Evans**
