@@ -31,8 +31,8 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Implementing Micro Service Architectures](https://vimeo.com/79866979) by **Fred George**
 * [Immutability Changes Everything](http://vimeo.com/52831373) by **Pat Helland**
 * [Crafting Wicked Domain Models](https://vimeo.com/43598193) by **Jimmy Bogard**
-* [Crockford on JavaScript](http://vimeo.com/78893726) by **Douglas Crockford**
-* [Go To There and Back Again](http://yuiblog.com/crockford/) by **Douglas Crockford**
+* [Crockford on JavaScript](http://yuiblog.com/crockford/) by **Douglas Crockford**
+* [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford**
 * [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) by **Ryan Dahl**
 * [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernhardt**
 * [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by **Gary Bernhardt**
