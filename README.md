@@ -49,6 +49,6 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Holistic testing by **Jimmy Bogard**](http://vimeo.com/68390508) [1:00:33]
 * [Adopting Continuous Delivery by **Jez Humble**](http://vimeo.com/68320415) [47:22]
 * [How To Design A Good API and Why it Matters by **Josh Bloch**](http://www.youtube.com/watch?v=aAb7hSCtvGw) [1:00:18]
-* [Is TDD Dead? - Part 1**](https://www.youtube.com/watch?v=z9quxZsLcfo) by **Martin Fowler, Kent Beck, and David Heinemeier Hansson (DHH) [30:28]
+* [Is TDD Dead? - Part 1 by **Martin Fowler, Kent Beck, and David Heinemeier Hansson (DHH)**](https://www.youtube.com/watch?v=z9quxZsLcfo) [30:28]
 * [Growing a Language by **Guy Steele**](https://www.youtube.com/watch?v=_ahvzDzKdB0) [53:30]
 
