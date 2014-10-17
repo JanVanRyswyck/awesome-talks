@@ -51,4 +51,4 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [How To Design A Good API and Why it Matters](http://www.youtube.com/watch?v=aAb7hSCtvGw) by **Josh Bloch**
 * [Is TDD Dead? - Part 1](https://www.youtube.com/watch?v=z9quxZsLcfo) by **Martin Fowler, Kent Beck, and David Heinemeier Hansson (DHH)**
 * [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele**
-
+* [The Joys and Pains of a Long Lived Codebase](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller) by **Jeremy D Miller**
