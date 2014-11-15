@@ -47,7 +47,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [How To Design A Good API and Why it Matters](http://www.youtube.com/watch?v=aAb7hSCtvGw) by **Josh Bloch** [1:00:18]
 * [The Joys and Pains of a Long Lived Codebase](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller) by **Jeremy D Miller** [1:02:30]
 
-#####JavaScript
+#####Web Development
 
 * [Crockford on JavaScript](http://yuiblog.com/crockford/) by **Douglas Crockford** [10:00:00]
 * [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** [49:06]
@@ -58,6 +58,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) by **Chris Williams** [21:39]
 * [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) by **Chris Williams** [27:25]
 * [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford** [41:42]
+* [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) by **James Mickens** [32:07]
 
 #####Test-Driven Development
 
