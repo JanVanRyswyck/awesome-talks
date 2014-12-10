@@ -83,4 +83,9 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
 
 #####Miscellaneous
-* [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) by **Brian Fitzpatrick and Ben Collins-Sussman** [55:16]
+* [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) by **Brian Fitzpatrick and Ben Collins-Sussman** [55:17]
+* [Open Source Projects and Poisonous People](https://www.youtube.com/watch?v=-F-3E8pyjFo) by **Brian Fitzpatrick and Ben Collins-Sussman** [57:45]
+* [Do You Believe in the Users?](https://www.youtube.com/watch?v=2an9bWOo89o) by **Brian Fitzpatrick and Ben Collins-Sussman** [50:20]
+* [The Joys of Engineering Leadership](https://www.youtube.com/watch?v=skD1fjxSRog) by **Brian Fitzpatrick and Ben Collins-Sussman** [56:02]
+* [Programming Well with Others: Social Skills for Geeks](https://www.youtube.com/watch?v=q-7l8cnpI4k) by **Brian Fitzpatrick and Ben Collins-Sussman** [55:29]
+* [The Art of Organizational Manipulation](https://www.youtube.com/watch?v=OTCuYzAw31Y) by **Brian Fitzpatrick and Ben Collins-Sussman** [56:15]
