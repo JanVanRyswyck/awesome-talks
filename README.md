@@ -81,3 +81,6 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 #####Computer History
 * [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
+
+#####Miscellaneous
+* [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) by **Brian Fitzpatrick and Ben Collins-Sussman** [55:16]
