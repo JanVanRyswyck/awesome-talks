@@ -67,6 +67,8 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Holistic testing](http://vimeo.com/68390508) by **Jimmy Bogard** [1:00:33]
 * [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) by **Gary Bernhardt** [33:44]
 * [Is TDD Dead? - Part 1](https://www.youtube.com/watch?v=z9quxZsLcfo) by **Martin Fowler, Kent Beck, and David Heinemeier Hansson (DHH)** [30:28]
+* [The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) by **Robert C. Martin** [53:43]
+* [Test, Transform, Refactor](https://www.youtube.com/watch?v=yPX3gZ7xgN8) by **Marcello Duarte** [52:28]
 
 #####Methodologies
 
