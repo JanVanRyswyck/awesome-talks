@@ -78,6 +78,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Spotify Engineering Culture - Part 2](http://vimeo.com/94950270) by **Spotify Training & Development** [13:27]
 * [Adopting Continuous Delivery](http://vimeo.com/68320415) by **Jez Humble** [47:22]
 * [The Death of Agile](http://www.thoughtworks.com/talks/the-death-of-agile) by **Dave Thomas** [47:47]
+* [Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0) by **Robert C. Martin** [45:03]
 
 #####Cognitive Development
 * [A Lecture on Creativity](https://www.youtube.com/watch?v=ijtQP9nwrQA) by **John Cleese** [10:37] 
