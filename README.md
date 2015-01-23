@@ -85,3 +85,6 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 #####Computer History
 * [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
+
+#####Fun
+* [Coding Sucks: Why a Job in Programming Is Absolute Hell](https://www.youtube.com/watch?v=MticYPfFRp8) by **Peter Welch (not shure)** 
