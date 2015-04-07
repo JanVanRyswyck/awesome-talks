@@ -18,6 +18,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** [53:30]
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** [45:49]
 * [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** [52:43]
+* [A short history of Software Engineering](https://www.youtube.com/watch?v=9IPn5Gk_OiM#t=1619) by **Paolo Perrotta** [36:35]
 
 #####Object-Oriented Programming
 
