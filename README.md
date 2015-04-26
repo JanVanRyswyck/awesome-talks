@@ -74,6 +74,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) by **Gary Bernhardt** [33:44]
 * [Is TDD Dead? - Part 1](https://www.youtube.com/watch?v=z9quxZsLcfo) by **Martin Fowler, Kent Beck, and David Heinemeier Hansson (DHH)** [30:28]
 * [The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) by **Robert C. Martin** [53:43]
+* [Theraputic Refactoring](http://www.kytrinyx.com/talks/therapeutic-refactoring) by **Katrina Owen** [26:04]
 
 #####Methodologies
 
