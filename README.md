@@ -53,6 +53,8 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [The Joys and Pains of a Long Lived Codebase](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller) by **Jeremy D Miller** [1:02:30]
 * [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) by **Martin Fowler** [26.25]
 * [Stewardship: The Sobering Parts](https://www.youtube.com/watch?v=2y5Pv4yN0b0) by **Brian Goetz** [1:03:30]
+* [Building backend services at Spotify](https://vimeo.com/108438464) by **Niklas Gustavsson** [59:10]
+* [What is DevOps and how can it help my business succeed?](https://vimeo.com/108441215) by **Paul Stack** [59:13]
 
 #####Web Development
 
