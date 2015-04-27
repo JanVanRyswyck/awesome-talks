@@ -53,6 +53,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [The Joys and Pains of a Long Lived Codebase](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller) by **Jeremy D Miller** [1:02:30]
 * [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) by **Martin Fowler** [26.25]
 * [Stewardship: The Sobering Parts](https://www.youtube.com/watch?v=2y5Pv4yN0b0) by **Brian Goetz** [1:03:30]
+* [Theraputic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) by **Katrina Owen** [26:04]
 
 #####Web Development
 
@@ -74,7 +75,6 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) by **Gary Bernhardt** [33:44]
 * [Is TDD Dead? - Part 1](https://www.youtube.com/watch?v=z9quxZsLcfo) by **Martin Fowler, Kent Beck, and David Heinemeier Hansson (DHH)** [30:28]
 * [The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) by **Robert C. Martin** [53:43]
-* [Theraputic Refactoring](http://www.kytrinyx.com/talks/therapeutic-refactoring) by **Katrina Owen** [26:04]
 
 #####Methodologies
 
