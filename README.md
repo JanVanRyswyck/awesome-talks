@@ -18,8 +18,8 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** [53:30]
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** [45:49]
 * [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** [52:43]
-* [A short history of Software Engineering](https://www.youtube.com/watch?v=9IPn5Gk_OiM#t=1619) by **Paolo Perrotta** [36:35]
-* [Linus Tovalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by **Linus Torvalds** [1:10:14]
+* [A short history of Software Engineering, and other ideas that didn't work](https://www.youtube.com/watch?v=9IPn5Gk_OiM#t=1619) by **Paolo Perrotta** [36:35]
+* [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by **Linus Torvalds** [1:10:14]
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) by **Mark Rendle** [43:46]
 
 #####Object-Oriented Programming
@@ -59,7 +59,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 #####Web Development
 
-* [Crockford on JavaScript](http://yuiblog.com/crockford/) by **Douglas Crockford** [10:00:00]
+* [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** [10:14:37]
 * [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** [49:06]
 * [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) by **Ryan Dahl** [58:19]
 * [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernhardt** [4:17]
@@ -89,6 +89,14 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Spotify Engineering Culture - Part 2](http://vimeo.com/94950270) by **Spotify Training & Development** [13:27]
 * [Adopting Continuous Delivery](http://vimeo.com/68320415) by **Jez Humble** [47:22]
 * [The Death of Agile](http://www.thoughtworks.com/talks/the-death-of-agile) by **Dave Thomas** [47:47]
+* [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY) by **Alistair Cockburn** [53:03]
+
+#####Computer History
+* [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
+* [Reflection on Window Systems: A Personal Study of Software Engineering](http://epresence.kmdi.utoronto.ca/1/watch/630.aspx) by **Rob Pike** [43:33]
+
+#####Databases
+* [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [01:06:23]
 
 #####Cognitive Development
 * [A Lecture on Creativity](https://www.youtube.com/watch?v=Qby0ed4aVpo) by **John Cleese** [36:09]
@@ -96,6 +104,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346) by **Cory House** [59:12]
 * [Stop Treading Water - Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750) by **Edward Kmett** [40:59]
 
-#####Computer History
-* [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
-* [Reflection on Window Systems: A Personal Study of Software Engineering](http://epresence.kmdi.utoronto.ca/1/watch/630.aspx) by **Rob Pike** [43:33]
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
