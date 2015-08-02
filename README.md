@@ -61,6 +61,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 * [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** [10:14:37]
 * [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** [49:06]
+* [The Better Parts](https://www.youtube.com/watch?v=bo36MrBfTk4) by **Douglas Crockford** [01:00:52]
 * [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) by **Ryan Dahl** [58:19]
 * [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernhardt** [4:17]
 * [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by **Gary Bernhardt** [29:22]
