@@ -102,6 +102,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 #####Computer History
 * [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
 * [Reflection on Window Systems: A Personal Study of Software Engineering](http://epresence.kmdi.utoronto.ca/1/watch/630.aspx) by **Rob Pike** [43:33]
+* [50 in 50](https://vimeo.com/25958308) by **Guy Steele** and **Richard Gabriel** [01:15:07]
 
 #####Databases
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [01:06:23]
