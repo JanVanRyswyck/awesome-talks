@@ -61,6 +61,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Stewardship: The Sobering Parts](https://www.youtube.com/watch?v=2y5Pv4yN0b0) by **Brian Goetz** [1:03:30]
 * [Theraputic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) by **Katrina Owen** [26:04]
 * [Evidence-Oriented Programming](https://www.youtube.com/watch?v=uEFrE6cgVNY) by **Andreas Stefik** [41:42]
+* [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35]
 
 #####Web Development
 
