@@ -24,6 +24,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by **Linus Torvalds** [1:10:14]
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) by **Mark Rendle** [43:46]
 * [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) by **Carin Meier** [36:00]
+* [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** [01:02:52]
 
 #####Object-Oriented Programming
 
@@ -79,6 +80,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Critical rendering path - Crash course on web performance](https://www.youtube.com/watch?v=PkOBnYxqj3k) by **Ilya Grigorik** [41:10]
 * [10 Things I Learned from the jQuery Source](https://vimeo.com/12529436) by **Paul Irish** [53:40]
 * [Om Next](https://www.youtube.com/watch?v=ByNs9TG30E8) by **David Nolen** [46:17]
+* [ClojureScript for Skeptics ](https://www.youtube.com/watch?v=gsffg5xxFQI) by **Derek Slager** [41:08]
 
 #####Test-Driven Development
 
