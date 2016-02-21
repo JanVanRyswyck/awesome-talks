@@ -19,10 +19,12 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** [53:30]
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** [45:49]
 * [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** [52:43]
-* [Simplify Challenging Software Problems with Rocket Science](https://www.youtube.com/watch?t=1141&v=h1g1YyVO6j8) by **Bradley Grzesiak** [23:07]
-* [A short history of Software Engineering, and other ideas that didn't work](https://www.youtube.com/watch?v=9IPn5Gk_OiM#t=1619) by **Paolo Perrotta** [36:35]
+* [Simplify Challenging Software Problems with Rocket Science](https://www.youtube.com/watch?v=h1g1YyVO6j8) by **Bradley Grzesiak** [23:07]
+* [A short history of Software Engineering, and other ideas that didn't work](https://www.youtube.com/watch?v=9IPn5Gk_OiM) by **Paolo Perrotta** [36:35]
 * [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by **Linus Torvalds** [1:10:14]
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) by **Mark Rendle** [43:46]
+* [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) by **Carin Meier** [36:00]
+* [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** [01:02:52]
 
 #####Object-Oriented Programming
 
@@ -60,6 +62,8 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) by **Martin Fowler** [26.25]
 * [Stewardship: The Sobering Parts](https://www.youtube.com/watch?v=2y5Pv4yN0b0) by **Brian Goetz** [1:03:30]
 * [Theraputic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) by **Katrina Owen** [26:04]
+* [Evidence-Oriented Programming](https://www.youtube.com/watch?v=uEFrE6cgVNY) by **Andreas Stefik** [41:42]
+* [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35]
 
 #####Web Development
 
@@ -77,6 +81,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Critical rendering path - Crash course on web performance](https://www.youtube.com/watch?v=PkOBnYxqj3k) by **Ilya Grigorik** [41:10]
 * [10 Things I Learned from the jQuery Source](https://vimeo.com/12529436) by **Paul Irish** [53:40]
 * [Om Next](https://www.youtube.com/watch?v=ByNs9TG30E8) by **David Nolen** [46:17]
+* [ClojureScript for Skeptics ](https://www.youtube.com/watch?v=gsffg5xxFQI) by **Derek Slager** [41:08]
 
 #####Test-Driven Development
 
@@ -101,6 +106,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 #####Computer History
 * [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
 * [Reflection on Window Systems: A Personal Study of Software Engineering](http://epresence.kmdi.utoronto.ca/1/watch/630.aspx) by **Rob Pike** [43:33]
+* [The Charming Genius of the Apollo Guidance Computer](https://www.youtube.com/watch?v=xY45YE7ggng) by **Brian Troutwine** [48:36]
 
 #####Databases
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [01:06:23]
