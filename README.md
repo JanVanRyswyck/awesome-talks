@@ -95,7 +95,6 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 * [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) by **Robert C. Martin** [45:41]
 * [Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0) by **Robert C. Martin** [45:03]
-* [The Mistake at the Heart of Agile (and how to get past it)](http://ndc2011.macsimum.no/mp4/Day1%20Wednesday/Track4%201500-1600.mp4) by **Michael Feathers** [53:58]
 * [Spotify Engineering Culture - Part 1](https://vimeo.com/85490944) by **Spotify Training & Development** [13:12]
 * [Spotify Engineering Culture - Part 2](http://vimeo.com/94950270) by **Spotify Training & Development** [13:27]
 * [Adopting Continuous Delivery](http://vimeo.com/68320415) by **Jez Humble** [47:22]
