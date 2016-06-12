@@ -44,6 +44,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Functional Programming Design Patterns](https://skillsmatter.com/skillscasts/6120-functional-programming-design-patterns-with-scott-wlaschin) by **Scott Wlaschin** [1:49:10]
 * [Domain modelling with the F# type system](http://vimeo.com/97507575) by **Scott Wlaschin** [1:03:40]
 * [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) by **Philip Wadler** [42:42]
+* [Programming with Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart** [40:49]
 
 #####Software Design
 
