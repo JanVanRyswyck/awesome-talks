@@ -63,6 +63,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Stewardship: The Sobering Parts](https://www.youtube.com/watch?v=2y5Pv4yN0b0) by **Brian Goetz** [1:03:30]
 * [Theraputic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) by **Katrina Owen** [26:04]
 * [Evidence-Oriented Programming](https://www.youtube.com/watch?v=uEFrE6cgVNY) by **Andreas Stefik** [41:42]
+* [The Programming Language Wars](https://www.youtube.com/watch?v=mDZ-QSLQIB8) by **Andreas Stefik** [50:28]
 * [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35]
 
 #####Web Development
@@ -96,12 +97,12 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 * [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) by **Robert C. Martin** [45:41]
 * [Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0) by **Robert C. Martin** [45:03]
-* [The Mistake at the Heart of Agile (and how to get past it)](http://ndc2011.macsimum.no/mp4/Day1%20Wednesday/Track4%201500-1600.mp4) by **Michael Feathers** [53:58]
 * [Spotify Engineering Culture - Part 1](https://vimeo.com/85490944) by **Spotify Training & Development** [13:12]
 * [Spotify Engineering Culture - Part 2](http://vimeo.com/94950270) by **Spotify Training & Development** [13:27]
 * [Adopting Continuous Delivery](http://vimeo.com/68320415) by **Jez Humble** [47:22]
 * [The Death of Agile](http://www.thoughtworks.com/talks/the-death-of-agile) by **Dave Thomas** [47:47]
 * [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY) by **Alistair Cockburn** [53:03]
+* [Implementing Programmer Anarchy](https://vimeo.com/79866978) by **Fred George** [54:55]
 
 #####Computer History
 * [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
@@ -112,13 +113,13 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [01:06:23]
 
 #####Cognitive Development
-* [A Lecture on Creativity](https://www.youtube.com/watch?v=Qby0ed4aVpo) by **John Cleese** [36:09]
+* [A Lecture on Creativity](https://www.youtube.com/watch?v=PQ0lck7oo4A) by **John Cleese** [36:09]
 * [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk) by **Derek Sivers** [18:54]
 * [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346) by **Cory House** [59:12]
+* [Surviving the Framework Hype Cycle](https://www.youtube.com/watch?v=9zc4DSTRGeM) by **Brandon Hays** [35:26]
 * [Stop Treading Water - Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750) by **Edward Kmett** [40:59]
 * [The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) by **Randy Pausch** [1:16:26]
 * [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) by **Steve Jobs** [15:04]
-
 
 ## License
 
