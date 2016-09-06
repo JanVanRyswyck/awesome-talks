@@ -44,6 +44,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Functional Programming Design Patterns](https://skillsmatter.com/skillscasts/6120-functional-programming-design-patterns-with-scott-wlaschin) by **Scott Wlaschin** [1:49:10]
 * [Domain modelling with the F# type system](http://vimeo.com/97507575) by **Scott Wlaschin** [1:03:40]
 * [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) by **Philip Wadler** [42:42]
+* [Functional programming and ruby](https://www.youtube.com/watch?v=OFHPvzfFeN4&feature=youtu.be&list=PLCCmo348OIQD7SoEUroHwYMRpD2Pha9c-) by **Pat Shaughnessy** [33:23]
 
 #####Software Design
 
