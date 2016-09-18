@@ -113,7 +113,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [01:06:23]
 
 #####Cognitive Development
-* [A Lecture on Creativity](https://www.youtube.com/watch?v=PQ0lck7oo4A) by **John Cleese** [36:09]
+* [A Lecture on Creativity](https://www.youtube.com/watch?v=4j-Lz0D5_ck) by **John Cleese** [36:09]
 * [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk) by **Derek Sivers** [18:54]
 * [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346) by **Cory House** [59:12]
 * [Surviving the Framework Hype Cycle](https://www.youtube.com/watch?v=9zc4DSTRGeM) by **Brandon Hays** [35:26]
