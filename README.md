@@ -68,6 +68,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Evidence-Oriented Programming](https://www.youtube.com/watch?v=uEFrE6cgVNY) by **Andreas Stefik** [41:42]
 * [The Programming Language Wars](https://www.youtube.com/watch?v=mDZ-QSLQIB8) by **Andreas Stefik** [50:28]
 * [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35]
+* [Simplicity, The Way of the Unusual Architect](http://www.infoq.com/presentations/Simplicity-Architect) by **Dan North** [58:17]
 
 #####Web Development
 
