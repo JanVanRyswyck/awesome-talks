@@ -67,7 +67,8 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Theraputic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) by **Katrina Owen** [26:04]
 * [Evidence-Oriented Programming](https://www.youtube.com/watch?v=uEFrE6cgVNY) by **Andreas Stefik** [41:42]
 * [The Programming Language Wars](https://www.youtube.com/watch?v=mDZ-QSLQIB8) by **Andreas Stefik** [50:28]
-* [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35]
+* [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Camille Fournier** [40:35]
+* [Kill "Microservices" before its too late](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Chad Fowler** [39:41]
 
 #####Web Development
 
