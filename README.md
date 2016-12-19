@@ -7,6 +7,8 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 #####Software Development
 * [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** [1:04:34]
+* [Power of Simplicity](https://www.youtube.com/watch?v=NdSD07U5uBs) by **Alan Kay** [51:06]
+* [Normal Considered Harmful](https://www.youtube.com/watch?v=FvmTSpJU-Xc) by **Alan Kay** [1:07:26]
 * [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor** [32:55]
 * [Inventing on Principle](https://vimeo.com/36579366) by **Bret Victor** [54:20]
 * [Media for Thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/) by **Bret Victor** [39:32]
@@ -15,6 +17,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Computers are a Sadness, I am the Cure](https://vimeo.com/95066828) by **James Mickens** [27:35]
 * [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** [1:10:04]
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** [1:01:26]
+* [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) by **Rich Hickey** [36:52]
 * [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by **Anil Dash** [1:10:54]
 * [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** [53:30]
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** [45:49]
@@ -26,6 +29,12 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) by **Carin Meier** [36:00]
 * [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** [01:02:52]
 * [5 WTFs in 6 LOCs](https://vimeo.com/181409251) by **Dorothy Wingrove** [05:11]
+* [The Power of Abstraction](https://www.youtube.com/watch?v=GDVAHA0oyJU) by **Barbra Liskov** [1:16:58]
+* [Truth, Myth & Reality in Software Development](https://www.youtube.com/watch?v=JIWvpPD3yQw) by **Leon Gersing** [1:11:50]
+* [Facebook Release Engineering](https://www.youtube.com/watch?v=Nffzkkdq7GM) by **Chuck Rossi** [1:10:01]
+* [10+ Deploys Per Day: Dev and Ops Cooperation at Flickr](https://www.youtube.com/watch?v=LdOe18KhtT4) by **John Allspaw and Paul Hammond** [46:21]
+* [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) by **Rob Pike** [31:22]
+* [Public Static Void](https://www.youtube.com/watch?v=5kj5ApnhPAE) by **Rob Pike** [12:30]
 
 #####Object-Oriented Programming
 
@@ -69,6 +78,8 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [The Programming Language Wars](https://www.youtube.com/watch?v=mDZ-QSLQIB8) by **Andreas Stefik** [50:28]
 * [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35]
 * [Kill "Microservices" before its too late](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** [39:41]
+* [The Deep Synergy Between Testability and Good Design](https://www.youtube.com/watch?v=4cVZvoFGJTU&index=33) by **Michael Feathers** [50:49]
+* [How Complex Systems Fail](https://www.youtube.com/watch?v=2S0k12uZR14) by **Richard Cook** [28:30]
 
 #####Web Development
 
@@ -83,10 +94,12 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) by **Chris Williams** [27:25]
 * [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford** [41:42]
 * [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) by **James Mickens** [32:07]
+* [James Mickens on JavaScript](https://www.youtube.com/watch?v=D5xh0ZIEUOE) by **James Mickens** [11:45]
 * [Critical rendering path - Crash course on web performance](https://www.youtube.com/watch?v=PkOBnYxqj3k) by **Ilya Grigorik** [41:10]
 * [10 Things I Learned from the jQuery Source](https://vimeo.com/12529436) by **Paul Irish** [53:40]
 * [Om Next](https://www.youtube.com/watch?v=ByNs9TG30E8) by **David Nolen** [46:17]
 * [ClojureScript for Skeptics ](https://www.youtube.com/watch?v=gsffg5xxFQI) by **Derek Slager** [41:08]
+* [Evolving Complex Systems Incrementally](https://www.youtube.com/watch?v=d0pOgY8__JM) by **Christoph Pojer** [33:26]
 
 #####Test-Driven Development
 
@@ -96,6 +109,8 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Is TDD Dead? - Part 1](https://www.youtube.com/watch?v=z9quxZsLcfo) by **Martin Fowler, Kent Beck, and David Heinemeier Hansson (DHH)** [30:28]
 * [The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) by **Robert C. Martin** [53:43]
 * [TDD in Tatters](https://vimeo.com/97537026) by **Scott Bellware** [01:07:53]
+* [Test-Driven Development by Example](https://www.youtube.com/watch?v=2b1vcg_XSR8) by **Toran Billups** [32:56]
+* [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0) by **Sandro Many** [1:17:07]
 
 #####Methodologies
 
@@ -112,6 +127,9 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
 * [Reflection on Window Systems: A Personal Study of Software Engineering](http://epresence.kmdi.utoronto.ca/1/watch/630.aspx) by **Rob Pike** [43:33]
 * [The Charming Genius of the Apollo Guidance Computer](https://www.youtube.com/watch?v=xY45YE7ggng) by **Brian Troutwine** [48:36]
+* [Nanoseconds](https://www.youtube.com/watch?v=JEpsKnWZrJ8) by **Grace Hopper** [2:07]
+* [Fork Yeah! The Rise and Development of illumos](https://www.youtube.com/watch?v=-zRN7XLCRhc) by **Bryan Cantrill** [1:04:03]
+* [Run containers on bare metal already!](https://www.youtube.com/watch?v=coFIEH3vXPw) by **Bryan Cantrill** [41:11]
 
 #####Databases
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [01:06:23]
@@ -124,6 +142,22 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Stop Treading Water - Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750) by **Edward Kmett** [40:59]
 * [The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) by **Randy Pausch** [1:16:26]
 * [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) by **Steve Jobs** [15:04]
+* [Ease at Work](https://www.infoq.com/presentations/self-image) by **Kent Beck** [55:26]
+* [Keynote, PyCon 2015](https://www.youtube.com/watch?v=hIJdFxYlEKE) by **Jacob Kaplan-Moss** [35:50]
+* [Not Just Code Monkeys](https://www.youtube.com/watch?v=ReTi9dYuPWc) by **Martin Fowler** [6:03]
+* [The Lean Startup](https://www.youtube.com/watch?v=fEvKo90qBns) by **Eric Ries** [58:08]
+* [How Great Leaders Inspire Action](https://www.youtube.com/watch?v=qp0HIF3SfI4) by **Simon Sinek** [18:34]
+
+#####Performance
+* [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) by **Martin Thompson** [50:17]
+* [Aeron: Open-source high-performance messaging](https://www.youtube.com/watch?v=tM4YskS94b0) by **Martin Thompson** [42:30]
+* [Designing Tracing Tools](https://www.youtube.com/watch?v=uibLwoVKjec) by **Brendan Gregg** [46:56]
+* [From Clouds to Roots](https://www.youtube.com/watch?v=Jjv_9qHoJ3I) by **Brendan Gregg** [56:15]
+* [Systems Performance: Author's Introduction](https://www.youtube.com/watch?v=eRstxL7gurU) by **Brendan Gregg** [1:00:47]
+* [Shouting in the Data Center](https://www.youtube.com/watch?v=tDacjrSCeq4) by **Brendan Gregg** [1:59]
+* [Uptime: Load Averages](https://www.youtube.com/watch?v=ajtoLLGbwiI) by **Brendan Gregg** [21:58]
+* [Performance Checklists for SRE's](https://www.youtube.com/watch?v=zxCWXNigDpA) by **Brendan Gregg** [1:01:28]
+* [Even Faster Websites](https://www.youtube.com/watch?v=aJGC0JSlpPE) by **Steve Soders** [1:00:32]
 
 ## License
 
