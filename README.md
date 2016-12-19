@@ -35,6 +35,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [10+ Deploys Per Day: Dev and Ops Cooperation at Flickr](https://www.youtube.com/watch?v=LdOe18KhtT4) by **John Allspaw and Paul Hammond** [46:21]
 * [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) by **Rob Pike** [31:22]
 * [Public Static Void](https://www.youtube.com/watch?v=5kj5ApnhPAE) by **Rob Pike** [12:30]
+* [One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w) by **Erik Meijer** [55:36]
 
 #####Object-Oriented Programming
 
@@ -78,7 +79,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [The Programming Language Wars](https://www.youtube.com/watch?v=mDZ-QSLQIB8) by **Andreas Stefik** [50:28]
 * [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35]
 * [Kill "Microservices" before its too late](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** [39:41]
-* [The Deep Synergy Between Testability and Good Design](https://www.youtube.com/watch?v=4cVZvoFGJTU&index=33) by **Michael Feathers** [50:49]
+* [The Deep Synergy Between Testability and Good Design](https://www.youtube.com/watch?v=4cVZvoFGJTU) by **Michael Feathers** [50:49]
 * [How Complex Systems Fail](https://www.youtube.com/watch?v=2S0k12uZR14) by **Richard Cook** [28:30]
 
 #####Web Development
@@ -111,6 +112,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [TDD in Tatters](https://vimeo.com/97537026) by **Scott Bellware** [01:07:53]
 * [Test-Driven Development by Example](https://www.youtube.com/watch?v=2b1vcg_XSR8) by **Toran Billups** [32:56]
 * [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0) by **Sandro Many** [1:17:07]
+* [Jim Coplien and Bob Martin Debate TDD](https://www.youtube.com/watch?v=KtHQGs3zFAM) by **Jim Coplien and Robert C. Martin** [20:58]
 
 #####Methodologies
 
