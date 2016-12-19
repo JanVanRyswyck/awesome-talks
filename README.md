@@ -113,6 +113,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Test-Driven Development by Example](https://www.youtube.com/watch?v=2b1vcg_XSR8) by **Toran Billups** [32:56]
 * [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0) by **Sandro Many** [1:17:07]
 * [Jim Coplien and Bob Martin Debate TDD](https://www.youtube.com/watch?v=KtHQGs3zFAM) by **Jim Coplien and Robert C. Martin** [20:58]
+* [Jim Weirich on Decoupling from Rails](https://www.youtube.com/watch?v=tg5RFeSfBM4) by **Jim Weirich** [1:15:57]
 
 #####Methodologies
 
@@ -153,6 +154,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 #####Performance
 * [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) by **Martin Thompson** [50:17]
 * [Aeron: Open-source high-performance messaging](https://www.youtube.com/watch?v=tM4YskS94b0) by **Martin Thompson** [42:30]
+* [Practicing at the Cutting Edge: Learning and Unlearning about Performance](https://www.infoq.com/presentations/java-performance) by **Martin Thompson** [51:22]
 * [Designing Tracing Tools](https://www.youtube.com/watch?v=uibLwoVKjec) by **Brendan Gregg** [46:56]
 * [From Clouds to Roots](https://www.youtube.com/watch?v=Jjv_9qHoJ3I) by **Brendan Gregg** [56:15]
 * [Systems Performance: Author's Introduction](https://www.youtube.com/watch?v=eRstxL7gurU) by **Brendan Gregg** [1:00:47]
