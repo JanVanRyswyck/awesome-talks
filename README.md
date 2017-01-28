@@ -115,7 +115,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [The History (and the Future) of Software](https://www.youtube.com/watch?v=OdI7Ukf-Bf4) by **Grady Booch** [01:09:27]
 
 #####Databases
-* [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [01:06:23]
+* [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [1:06:23]
 
 #####Cognitive Development
 * [A Lecture on Creativity](https://vimeo.com/183363832) by **John Cleese** [36:39]
