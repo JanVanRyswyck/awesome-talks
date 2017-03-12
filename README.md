@@ -96,6 +96,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Is TDD Dead? - Part 1](https://www.youtube.com/watch?v=z9quxZsLcfo) by **Martin Fowler, Kent Beck, and David Heinemeier Hansson (DHH)** [30:28]
 * [The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) by **Robert C. Martin** [53:43]
 * [TDD in Tatters](https://vimeo.com/97537026) by **Scott Bellware** [01:07:53]
+* [Test-driven development - Write better code in less time](https://www.youtube.com/watch?v=HhwElTL-mdI) by **Evan Dorn** [30:54]
 
 #####Methodologies
 
@@ -126,6 +127,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Stop Treading Water - Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750) by **Edward Kmett** [40:59]
 * [The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) by **Randy Pausch** [1:16:26]
 * [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) by **Steve Jobs** [15:04]
+* [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by **Rich Hickey** [39:48]
 
 ## License
 
