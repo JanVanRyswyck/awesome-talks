@@ -15,6 +15,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Computers are a Sadness, I am the Cure](https://vimeo.com/95066828) by **James Mickens** [27:35]
 * [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** [1:10:04]
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** [1:01:26]
+* [The Value of Values](https://www.infoq.com/presentations/Value-Values) by **Rich Hickey** [58:53]
 * [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by **Anil Dash** [1:10:54]
 * [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** [53:30]
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** [45:49]
