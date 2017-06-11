@@ -50,6 +50,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Category Theory for the Working Hacker](https://www.infoq.com/presentations/category-theory-propositions-principle) by **Philip Wadler** [42:17]
 * [Types are like the Weather, Type Systems are like Weathermen](https://www.youtube.com/watch?v=XTl7Jn_kmio) by **Matthias Felleisen** [1:15:18]
 * [Functional architecture - The pits of success](https://www.youtube.com/watch?v=US8QG9I1XW0) by **Mark Seemann** [1:00:09]
+* [To Clojure and back: Writing and rewriting in Ruby](https://www.youtube.com/watch?v=doZ0XAc9Wtc) by **Phillip Mendonça-Vieira** [33:16]
 
 ##### Software Design
 
