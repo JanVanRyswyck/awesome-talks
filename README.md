@@ -52,6 +52,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Types are like the Weather, Type Systems are like Weathermen](https://www.youtube.com/watch?v=XTl7Jn_kmio) by **Matthias Felleisen** [1:15:18]
 * [Functional architecture - The pits of success](https://www.youtube.com/watch?v=US8QG9I1XW0) by **Mark Seemann** [1:00:09]
 * [To Clojure and back: Writing and rewriting in Ruby](https://www.youtube.com/watch?v=doZ0XAc9Wtc) by **Phillip Mendonça-Vieira** [33:16]
+* [All I needed for FP I learned in High School Algebra](https://www.youtube.com/watch?v=epT1xgxSpFU) by **Eric Normand** [33:05]
 
 ##### Software Design
 
@@ -138,6 +139,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 ##### Cryptocurrencies
 * [Bitcoin: Where the Laws of Mathematics Prevail](https://www.youtube.com/watch?v=HaJ1hvon0E0) by **Andreas Antonopoulos** [23:47]
+* [Delivering Liberty, at Scale](https://www.youtube.com/watch?v=AecPrwqjbGw) by **Andreas Antonopoulos** [30:15]
 
 ## License
 
