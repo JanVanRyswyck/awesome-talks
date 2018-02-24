@@ -104,6 +104,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [TDD in Tatters](https://vimeo.com/97537026) by **Scott Bellware** [01:07:53]
 * [Test-Driven Development - Write better code in less time](https://www.youtube.com/watch?v=HhwElTL-mdI) by **Evan Dorn** [30:54]
 * [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) by **Sandi Metz** [32:22]
+* [How To Stop Hating Your Tests](https://vimeo.com/145917204) by **Justin Searls** [43:39]
 
 ##### Methodologies
 
