@@ -6,17 +6,17 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 (In no particular order)
 
 ### Categories
-  - [Software Development](https://github.com/AlexGascon/awesome-talks#software-development)
-  - [Object-Oriented Programming](https://github.com/AlexGascon/awesome-talks#object-oriented-programming)
-  - [Functional Programming](https://github.com/AlexGascon/awesome-talks#functional-programming)
-  - [Software Design](https://github.com/AlexGascon/awesome-talks#software-design)
-  - [Web Development](https://github.com/AlexGascon/awesome-talks#web-development)
-  - [Test-Driven Development](https://github.com/AlexGascon/awesome-talks#test-driven-development)
-  - [Methodologies](https://github.com/AlexGascon/awesome-talks#methodologies)
-  - [Computer History](https://github.com/AlexGascon/awesome-talks#computer-history)
-  - [Databases](https://github.com/AlexGascon/awesome-talks#databases)
-  - [Cognitive Development](https://github.com/AlexGascon/awesome-talks#cognitive-development)
-  - [Cryptocurrencies](https://github.com/AlexGascon/awesome-talks#cryptocurrencies)
+  - [Software Development](https://github.com/JanVanRyswyck/awesome-talks#software-development)
+  - [Object-Oriented Programming](https://github.com/JanVanRyswyck/awesome-talks#object-oriented-programming)
+  - [Functional Programming](https://github.com/JanVanRyswyck/awesome-talks#functional-programming)
+  - [Software Design](https://github.com/JanVanRyswyck/awesome-talks#software-design)
+  - [Web Development](https://github.com/JanVanRyswyck/awesome-talks#web-development)
+  - [Test-Driven Development](https://github.com/JanVanRyswyck/awesome-talks#test-driven-development)
+  - [Methodologies](https://github.com/JanVanRyswyck/awesome-talks#methodologies)
+  - [Computer History](https://github.com/JanVanRyswyck/awesome-talks#computer-history)
+  - [Databases](https://github.com/JanVanRyswyck/awesome-talks#databases)
+  - [Cognitive Development](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development)
+  - [Cryptocurrencies](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
 
 ##### Software Development
 * [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** [1:04:34]
