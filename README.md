@@ -3,8 +3,6 @@
 
 There are a lot of screencasts, recordings of user group gatherings and conference talks available online. I try to commit myself watching at least two new talks every week, and I've been doing this for quite some time now. I created this list of online talks that I really enjoyed watching. I'll also be updating this list whenever I've watched another *awesome* talk that is worthy enough. Suggestions are always appreciated through a pull request. So without further ado ..
 
-(In no particular order)
-
 ### Categories
   - [Software Development](https://github.com/JanVanRyswyck/awesome-talks#software-development)
   - [Object-Oriented Programming](https://github.com/JanVanRyswyck/awesome-talks#object-oriented-programming)
@@ -17,6 +15,8 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
   - [Databases](https://github.com/JanVanRyswyck/awesome-talks#databases)
   - [Cognitive Development](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development)
   - [Cryptocurrencies](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
+
+(In no particular order)
 
 ##### Software Development
 * [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** [1:04:34]
