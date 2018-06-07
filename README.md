@@ -41,6 +41,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) by **Carin Meier** [36:00]
 * [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** [01:02:52]
 * [5 WTFs in 6 LOCs](https://vimeo.com/181409251) by **Dorothy Wingrove** [05:11]
+* [#NoEstimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms) by **Allen Holub**
 
 #### Object-Oriented Programming
 
