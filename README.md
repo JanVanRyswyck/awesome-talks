@@ -42,6 +42,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** [01:02:52]
 * [5 WTFs in 6 LOCs](https://vimeo.com/181409251) by **Dorothy Wingrove** [05:11]
 * [Programming is Writing is Programming](https://www.youtube.com/watch?v=uO3a4HIBDU4) by **Felienne Hermans** [55:46]
+* [Winning the War on Error Solving the Halting Problem and Curing Cancer](https://www.youtube.com/watch?v=MdmQUlD7P40) by **Matt Might** [48:35]
 
 #### Object-Oriented Programming
 
@@ -50,6 +51,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 #### Functional Programming
 
+* [Why Functional Programming Matters](https://www.youtube.com/watch?v=vGVJYoKIzjU) by **John Hughes** [58:17]
 * [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** [51:13]
 * [Adventures in Functional Programming](https://vimeo.com/45140590) by **Jim Weirich** [50:34]
 * [Functional Programming: What? Why? When?](https://vimeo.com/97514630) by **Robert C. Martin** [58:26]
@@ -119,6 +121,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Test-Driven Development - Write better code in less time](https://www.youtube.com/watch?v=HhwElTL-mdI) by **Evan Dorn** [30:54]
 * [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) by **Sandi Metz** [32:22]
 * [How To Stop Hating Your Tests](https://vimeo.com/145917204) by **Justin Searls** [43:39]
+* [Don't Write Tests](https://www.youtube.com/watch?v=hXnS_Xjwk2Y) by **John Hughes** [41:14]
 
 #### Methodologies
 
