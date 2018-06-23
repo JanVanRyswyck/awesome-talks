@@ -119,6 +119,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Test-Driven Development - Write better code in less time](https://www.youtube.com/watch?v=HhwElTL-mdI) by **Evan Dorn** [30:54]
 * [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) by **Sandi Metz** [32:22]
 * [How To Stop Hating Your Tests](https://vimeo.com/145917204) by **Justin Searls** [43:39]
+* [Why You Don't Get Mock Objects](https://www.youtube.com/watch?v=R9FOchgTtLM) by **Gregory Moeck** [44:42]
 
 #### Methodologies
 
