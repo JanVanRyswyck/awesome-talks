@@ -42,7 +42,6 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** [01:02:52]
 * [5 WTFs in 6 LOCs](https://vimeo.com/181409251) by **Dorothy Wingrove** [05:11]
 * [Programming is Writing is Programming](https://www.youtube.com/watch?v=uO3a4HIBDU4) by **Felienne Hermans** [55:46]
-* [Ideology](https://www.destroyallsoftware.com/talks/ideology) by **Gary Bernhardt** [21:22]
 
 #### Object-Oriented Programming
 
@@ -156,6 +155,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) by **Steve Jobs** [15:04]
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by **Rich Hickey** [39:48]
 * [Drive - The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=u6XAPnuFjJc) by **RSA Animate** [10:47]
+* [Ideology](https://www.destroyallsoftware.com/talks/ideology) by **Gary Bernhardt** [21:22]
 
 #### Cryptocurrencies
 * [Bitcoin: Where the Laws of Mathematics Prevail](https://www.youtube.com/watch?v=HaJ1hvon0E0) by **Andreas Antonopoulos** [23:47]
