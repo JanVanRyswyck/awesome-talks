@@ -42,6 +42,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** [01:02:52]
 * [5 WTFs in 6 LOCs](https://vimeo.com/181409251) by **Dorothy Wingrove** [05:11]
 * [Programming is Writing is Programming](https://www.youtube.com/watch?v=uO3a4HIBDU4) by **Felienne Hermans** [55:46]
+* [Ideology](https://www.destroyallsoftware.com/talks/ideology) by **Gary Bernhardt** [21:22]
 
 #### Object-Oriented Programming
 
