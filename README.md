@@ -15,6 +15,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
   - [Methodologies](https://github.com/JanVanRyswyck/awesome-talks#methodologies)
   - [Computer History](https://github.com/JanVanRyswyck/awesome-talks#computer-history)
   - [Databases](https://github.com/JanVanRyswyck/awesome-talks#databases)
+  - [Security](https://github.com/JanVanRyswyck/awesome-talks#security)
   - [Cognitive Development](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development)
   - [Cryptocurrencies](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
 
@@ -145,6 +146,9 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 #### Databases
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [1:06:23]
+
+#### Security
+* [Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) by **James Mickens** [51:21]
 
 #### Cognitive Development
 * [A Lecture on Creativity](https://www.youtube.com/watch?v=Pb5oIIPO62g) by **John Cleese** [36:59]
