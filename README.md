@@ -122,6 +122,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) by **Sandi Metz** [32:22]
 * [How To Stop Hating Your Tests](https://vimeo.com/145917204) by **Justin Searls** [43:39]
 * [Why You Don't Get Mock Objects](https://www.youtube.com/watch?v=R9FOchgTtLM) by **Gregory Moeck** [44:42]
+* [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w) by **Misko Hevery** [32:07]
 
 #### Methodologies
 
