@@ -153,6 +153,9 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 #### Security
 * [Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) by **James Mickens** [51:21]
 
+#### Testing
+* [Acceptance Testing For Continuous Delivery](https://www.youtube.com/watch?v=s1Y454DTRtg) by **Dave Farley** [01:02:34]
+
 #### Cognitive Development
 * [A Lecture on Creativity](https://www.youtube.com/watch?v=Pb5oIIPO62g) by **John Cleese** [36:59]
 * [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk) by **Derek Sivers** [18:54]
