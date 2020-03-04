@@ -69,6 +69,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Functional architecture - The pits of success](https://www.youtube.com/watch?v=US8QG9I1XW0) by **Mark Seemann** [1:00:09]
 * [To Clojure and back: Writing and rewriting in Ruby](https://www.youtube.com/watch?v=doZ0XAc9Wtc) by **Phillip Mendonça-Vieira** [33:16]
 * [All I needed for FP I learned in High School Algebra](https://www.youtube.com/watch?v=epT1xgxSpFU) by **Eric Normand** [33:05]
+* [Solving Problems The Clojure Way](https://www.youtube.com/watch?v=vK1DazRK_a0) by **Rafal Dittwald** [01:02:25]
 
 #### Software Design
 
