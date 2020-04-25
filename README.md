@@ -127,6 +127,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w) by **Misko Hevery** [32:07]
 * [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI) by **JB Rainsberger and Sandro Mancuso**
 * [Integrated Tests Are a Scam](https://vimeo.com/80533536) by **JB Rainsberger**
+* [Structure and Interpretation of Test Cases](https://vimeo.com/289852238) by **Kevlin Henney**
 
 #### Methodologies
 
