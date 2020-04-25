@@ -125,9 +125,9 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [How To Stop Hating Your Tests](https://vimeo.com/145917204) by **Justin Searls** [43:39]
 * [Why You Don't Get Mock Objects](https://www.youtube.com/watch?v=R9FOchgTtLM) by **Gregory Moeck** [44:42]
 * [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w) by **Misko Hevery** [32:07]
-* [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI) by **JB Rainsberger and Sandro Mancuso**
-* [Integrated Tests Are a Scam](https://vimeo.com/80533536) by **JB Rainsberger**
-* [Structure and Interpretation of Test Cases](https://vimeo.com/289852238) by **Kevlin Henney**
+* [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI) by **JB Rainsberger and Sandro Mancuso** [01:28:50]
+* [Integrated Tests Are a Scam](https://vimeo.com/80533536) by **JB Rainsberger** [01:04:35]
+* [Structure and Interpretation of Test Cases](https://vimeo.com/289852238) by **Kevlin Henney** [01:04:23]
 
 #### Methodologies
 
