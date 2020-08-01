@@ -93,7 +93,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Evidence-Oriented Programming](https://www.youtube.com/watch?v=uEFrE6cgVNY) by **Andreas Stefik** [41:42]
 * [The Programming Language Wars](https://www.youtube.com/watch?v=mDZ-QSLQIB8) by **Andreas Stefik** [50:28]
 * [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35]
-* [Kill "Microservices" before its too late](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** [39:41]
+* [Kill "Microservices" Before Its Too Late](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** [39:41]
 * [The Lost Art Of Software Design](https://www.youtube.com/watch?v=XPSZC3mJRO0) by **Simon Brown** [46:15]
 
 #### Web Development
