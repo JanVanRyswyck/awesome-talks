@@ -131,6 +131,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI) by **JB Rainsberger and Sandro Mancuso** [01:28:50]
 * [Integrated Tests Are a Scam](https://vimeo.com/80533536) by **JB Rainsberger** [01:04:35]
 * [Structure and Interpretation of Test Cases](https://vimeo.com/289852238) by **Kevlin Henney** [01:04:23]
+* [Does TDD Really Lead to Good Design?](https://www.youtube.com/watch?v=KyFVA4Spcgg) by **Sandro Mancuso** [57:59]
 
 #### Methodologies
 
