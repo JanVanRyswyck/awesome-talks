@@ -23,7 +23,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 * [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** [1:04:34]
 * [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor** [32:55]
-* [Inventing on Principle](https://vimeo.com/36579366) by **Bret Victor** [54:20]
+* [Inventing on Principle](https://vimeo.com/38272912) by **Bret Victor** [54:20]
 * [Media for Thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/) by **Bret Victor** [39:32]
 * [Finding a Way Out](http://www.infoq.com/presentations/reimagining-software) by **Chris Granger** [33:46]
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=AUYPnxv0yss) by **Thomas Figg** [1:06:43]
