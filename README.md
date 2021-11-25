@@ -18,6 +18,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
   - [Security](https://github.com/JanVanRyswyck/awesome-talks#security)
   - [Cognitive Development](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development)
   - [Cryptocurrencies](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
+  - [Career](https://github.com/JanVanRyswyck/awesome-talks#career)
 
 #### Software Development
 
@@ -46,6 +47,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Programming is Writing is Programming](https://www.youtube.com/watch?v=uO3a4HIBDU4) by **Felienne Hermans** [55:46]
 * [We're Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) by **Paul Phillips** [50:42]
 * [Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM) by **Glenn Vanderburg** [1:07:57]
+* [Functional Design Patterns](https://www.youtube.com/watch?v=ucnWLfBA1dc) by **Scott Wlaschin** [57:04]
 * [Feature Branching Considered Evil](https://www.youtube.com/watch?v=h7LeD7VevyI) by **Thierry de Pauw** [49:38]
 
 #### Object-Oriented Programming
@@ -97,6 +99,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35]
 * [Kill "Microservices" Before Its Too Late](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** [39:41]
 * [The Lost Art Of Software Design](https://www.youtube.com/watch?v=XPSZC3mJRO0) by **Simon Brown** [46:15]
+* [The Economics of Software Design](https://www.youtube.com/watch?v=TQ9rng6YFeY) by **J.B. Rainsberger** [55:18]
 
 #### Web Development
 
@@ -118,7 +121,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 #### Test-Driven Development
 
-* [TDD, where did it all go wrong](http://vimeo.com/68375232) by **Ian Cooper** [1:00:37]
+* [TDD, where did it all go wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM) by **Ian Cooper** [1:03:54]
 * [Holistic testing](http://vimeo.com/68390508) by **Jimmy Bogard** [1:00:33]
 * [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) by **Gary Bernhardt** [33:44]
 * [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/) by **Martin Fowler, Kent Beck, and David Heinemeier Hansson (DHH)**
@@ -188,6 +191,9 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 * [Bitcoin: Where the Laws of Mathematics Prevail](https://www.youtube.com/watch?v=HaJ1hvon0E0) by **Andreas Antonopoulos** [23:47]
 * [Delivering Liberty, at Scale](https://www.youtube.com/watch?v=AecPrwqjbGw) by **Andreas Antonopoulos** [30:15]
+
+#### Career
+* [The Long Road](https://www.youtube.com/watch?v=vQDnW265XKU) by **Sandro Mancuso** [56:37]
 
 ## License
 
