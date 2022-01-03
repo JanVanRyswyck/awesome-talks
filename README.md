@@ -97,6 +97,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35]
 * [Kill "Microservices" Before Its Too Late](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** [39:41]
 * [The Lost Art Of Software Design](https://www.youtube.com/watch?v=XPSZC3mJRO0) by **Simon Brown** [46:15]
+* [Technical Debt Isn't Technical](https://youtu.be/d2Ddo8OV7ig) by **Einar Høst** [47:36]
 
 #### Web Development
 
