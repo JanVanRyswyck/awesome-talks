@@ -20,9 +20,10 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
   - [Cryptocurrencies](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
 
 #### Software Development
+
 * [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** [1:04:34]
 * [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor** [32:55]
-* [Inventing on Principle](https://vimeo.com/36579366) by **Bret Victor** [54:20]
+* [Inventing on Principle](https://vimeo.com/38272912) by **Bret Victor** [54:20]
 * [Media for Thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/) by **Bret Victor** [39:32]
 * [Finding a Way Out](http://www.infoq.com/presentations/reimagining-software) by **Chris Granger** [33:46]
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=AUYPnxv0yss) by **Thomas Figg** [1:06:43]
@@ -132,6 +133,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Integrated Tests Are a Scam](https://vimeo.com/80533536) by **JB Rainsberger** [01:04:35]
 * [Structure and Interpretation of Test Cases](https://vimeo.com/289852238) by **Kevlin Henney** [01:04:23]
 * [Does TDD Really Lead to Good Design?](https://www.youtube.com/watch?v=KyFVA4Spcgg) by **Sandro Mancuso** [57:59]
+* [TDD For Those Who Don't Need It](https://www.youtube.com/watch?v=a6oP24CSdUg) by **Chew Choon Keat** [13:42]
 
 #### Methodologies
 
@@ -147,9 +149,10 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [It Is Not About Software Anymore](https://www.youtube.com/watch?v=X8iIRG9LA54) by **Mary Poppendieck** [01:06:38]
 * [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA) by **JB Rainsberger** [00:07:42]
 * [7 Patterns of Effective Teams](https://www.youtube.com/watch?v=lvs7VEsQzKY) by **Dan North** [00:51:03]
-
+* [Explaining Team Flow](https://www.youtube.com/watch?v=bhpQKA9XYcE) by **Michel Grootjans** [14:30]
 
 #### Computer History
+
 * [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
 * [The Charming Genius of the Apollo Guidance Computer](https://www.youtube.com/watch?v=xY45YE7ggng) by **Brian Troutwine** [48:36]
 * [The History (and the Future) of Software](https://www.youtube.com/watch?v=OdI7Ukf-Bf4) by **Grady Booch** [01:09:27]
@@ -158,15 +161,19 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [DOOM’s Development: A Year of Madness](https://www.youtube.com/watch?v=eBU34NZhW7I) by **John Romero** [44:12]
 
 #### Databases
+
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [1:06:23]
 
 #### Security
+
 * [Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) by **James Mickens** [51:21]
 
 #### Testing
+
 * [Acceptance Testing For Continuous Delivery](https://www.youtube.com/watch?v=s1Y454DTRtg) by **Dave Farley** [01:02:34]
 
 #### Cognitive Development
+
 * [A Lecture on Creativity](https://www.youtube.com/watch?v=Pb5oIIPO62g) by **John Cleese** [36:59]
 * [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk) by **Derek Sivers** [18:54]
 * [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346) by **Cory House** [59:12]
@@ -179,6 +186,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Ideology](https://www.destroyallsoftware.com/talks/ideology) by **Gary Bernhardt** [21:22]
 
 #### Cryptocurrencies
+
 * [Bitcoin: Where the Laws of Mathematics Prevail](https://www.youtube.com/watch?v=HaJ1hvon0E0) by **Andreas Antonopoulos** [23:47]
 * [Delivering Liberty, at Scale](https://www.youtube.com/watch?v=AecPrwqjbGw) by **Andreas Antonopoulos** [30:15]
 
