@@ -146,6 +146,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Moving Past the Scaling Myth](https://www.infoq.com/presentations/scalability-variant-structuring#) by **Michael Feathers** [52:02]
 * [It Is Not About Software Anymore](https://www.youtube.com/watch?v=X8iIRG9LA54) by **Mary Poppendieck** [01:06:38]
 * [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA) by **JB Rainsberger** [00:07:42]
+* [7 Patterns of Effective Teams](https://www.youtube.com/watch?v=lvs7VEsQzKY) by **Dan North** [00:51:03]
 
 
 #### Computer History
