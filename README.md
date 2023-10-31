@@ -165,6 +165,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 #### Databases
 
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [1:06:23]
+* [Things Every Developer Absolutely, Positively Needs To Know About Database Indexing](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Kai Sassnowski** [41:49]
 
 #### Security
 
