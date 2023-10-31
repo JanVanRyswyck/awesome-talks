@@ -16,6 +16,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
   - [Computer History](https://github.com/JanVanRyswyck/awesome-talks#computer-history)
   - [Databases](https://github.com/JanVanRyswyck/awesome-talks#databases)
   - [Security](https://github.com/JanVanRyswyck/awesome-talks#security)
+  - [Social Responsibility](https://github.com/JanVanRyswyck/awesome-talks#social-responsibility)
   - [Cognitive Development](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development)
   - [Cryptocurrencies](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
 
@@ -174,6 +175,10 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 #### Testing
 
 * [Acceptance Testing For Continuous Delivery](https://www.youtube.com/watch?v=s1Y454DTRtg) by **Dave Farley** [01:02:34]
+
+
+#### Social Responsibility
+* [From Prison to Python](https://www.youtube.com/watch?v=jNBsrLzHVgM) by **Shadeed Wallace-Stepter** [40:34]
 
 #### Cognitive Development
 
