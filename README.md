@@ -17,7 +17,6 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
   - [Databases](https://github.com/JanVanRyswyck/awesome-talks#databases)
   - [Security](https://github.com/JanVanRyswyck/awesome-talks#security)
   - [Cognitive Development](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development)
-  - [Cryptocurrencies](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
 
 #### Software Development
 
