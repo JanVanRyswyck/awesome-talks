@@ -187,6 +187,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by **Rich Hickey** [39:48]
 * [Drive - The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=u6XAPnuFjJc) by **RSA Animate** [10:47]
 * [Ideology](https://www.destroyallsoftware.com/talks/ideology) by **Gary Bernhardt** [21:22]
+* [Impostor syndrome](https://www.youtube.com/watch?v=TlZg5HkZ38A) by **Don Felker and Kaushik Gopal** [34:08]
 
 ## License
 
