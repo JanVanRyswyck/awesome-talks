@@ -152,6 +152,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [It Is Not About Software Anymore](https://www.youtube.com/watch?v=X8iIRG9LA54) by **Mary Poppendieck** [01:06:38]
 * [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA) by **JB Rainsberger** [00:07:42]
 * [Explaining Team Flow](https://www.youtube.com/watch?v=bhpQKA9XYcE) by **Michel Grootjans** [14:30]
+* [The Efficiency Paradox](https://www.youtube.com/watch?v=hGJpez7rvc0) by **Niklas Modig** [18:48]
 
 #### Computer History
 
