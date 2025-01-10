@@ -137,6 +137,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Structure and Interpretation of Test Cases](https://vimeo.com/289852238) by **Kevlin Henney** [01:04:23]
 * [Does TDD Really Lead to Good Design?](https://www.youtube.com/watch?v=KyFVA4Spcgg) by **Sandro Mancuso** [57:59]
 * [TDD For Those Who Don't Need It](https://www.youtube.com/watch?v=a6oP24CSdUg) by **Chew Choon Keat** [13:42]
+* [TDD: Theme & Variations](https://www.youtube.com/watch?v=C5IH0ABmyc0) by **Kent Beck** [57:29]
 
 #### Methodologies
 
