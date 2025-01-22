@@ -6,49 +6,48 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 (In no particular order)
 
 ### Categories
-  - [Software Development](https://github.com/JanVanRyswyck/awesome-talks#software-development)
-  - [Object-Oriented Programming](https://github.com/JanVanRyswyck/awesome-talks#object-oriented-programming)
-  - [Functional Programming](https://github.com/JanVanRyswyck/awesome-talks#functional-programming)
-  - [Software Design](https://github.com/JanVanRyswyck/awesome-talks#software-design)
-  - [Web Development](https://github.com/JanVanRyswyck/awesome-talks#web-development)
-  - [Test-Driven Development](https://github.com/JanVanRyswyck/awesome-talks#test-driven-development)
-  - [Methodologies](https://github.com/JanVanRyswyck/awesome-talks#methodologies)
-  - [Computer History](https://github.com/JanVanRyswyck/awesome-talks#computer-history)
-  - [Databases](https://github.com/JanVanRyswyck/awesome-talks#databases)
-  - [Security](https://github.com/JanVanRyswyck/awesome-talks#security)
-  - [Cognitive Development](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development)
+  - [Software Development](#software-development)
+  - [Object-Oriented Programming](#object-oriented-programming)
+  - [Functional Programming](#functional-programming)
+  - [Software Design](#software-design)
+  - [Web Development](#web-development)
+  - [Test-Driven Development](#test-driven-development)
+  - [Methodologies](#methodologies)
+  - [Computer History](#computer-history)
+  - [Databases](#databases)
+  - [Security](#security)
+  - [Cognitive Development](#cognitive-development)
 
 #### Software Development
 
-* [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** [1:04:34]
-* [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor** [32:55]
-* [Inventing on Principle](https://vimeo.com/38272912) by **Bret Victor** [54:20]
-* [Media for Thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/) by **Bret Victor** [39:32]
-* [Finding a Way Out](http://www.infoq.com/presentations/reimagining-software) by **Chris Granger** [33:46]
-* [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=AUYPnxv0yss) by **Thomas Figg** [1:06:43]
-* [Computers are a Sadness, I am the Cure](https://vimeo.com/95066828) by **James Mickens** [27:35]
-* [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** [1:10:04]
-* [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** [1:01:26]
-* [The Value of Values](https://www.infoq.com/presentations/Value-Values) by **Rich Hickey** [58:53]
-* [Effective Programs - 10 Years of Clojure](https://www.youtube.com/watch?v=2V1FtfBDsLU) by **Rich Hickey** [1:14:51]
-* [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by **Anil Dash** [1:10:54]
-* [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** [53:30]
-* [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** [45:49]
-* [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** [52:43]
-* [Simplify Challenging Software Problems with Rocket Science](https://www.youtube.com/watch?v=h1g1YyVO6j8) by **Bradley Grzesiak** [23:07]
-* [A short history of Software Engineering, and other ideas that didn't work](https://www.youtube.com/watch?v=CnquVcxvAl0) by **Paolo Perrotta** [36:35]
-* [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by **Linus Torvalds** [1:10:14]
-* [The Worst Programming Language Ever](https://www.youtube.com/watch?v=vcFBwt1nu2U) by **Mark Rendle** [1:00:40]
-* [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) by **Carin Meier** [36:00]
-* [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** [01:02:52]
-* [5 WTFs in 6 LOCs](https://vimeo.com/181409251) by **Dorothy Wingrove** [05:11]
-* [Programming is Writing is Programming](https://www.youtube.com/watch?v=uO3a4HIBDU4) by **Felienne Hermans** [55:46]
-* [We're Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) by **Paul Phillips** [50:42]
-* [Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM) by **Glenn Vanderburg** [1:07:57]
-* [Feature Branching Considered Evil](https://www.youtube.com/watch?v=h7LeD7VevyI) by **Thierry de Pauw** [49:38]
-* [Programming’s Greatest Mistakes](https://www.youtube.com/watch?v=qC_ioJQpv4E) by **Mark Rendle** [55:34]
-* [Email vs Capitalism, or, Why We Can't Have Nice Things](https://www.youtube.com/watch?v=mrGfahzt-4Q) by **Dylan Beattie** [56:45]
-* [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko) by **Jonathan Blow** [01:02:41]
+* [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** (OOPSLA 1997) [1:04:34]
+* [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor** (Dropbox's DBX conference 2013) [32:55]
+* [Inventing on Principle](https://vimeo.com/38272912) by **Bret Victor** (CUSEC 2012) [54:20]
+* [Media for Thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/) by **Bret Victor** (MIT Media Lab 2013) [39:32]
+* [Finding a Way Out](http://www.infoq.com/presentations/reimagining-software) by **Chris Granger** (Strange Loop 2013) [33:46]
+* [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=AUYPnxv0yss) by **Thomas Figg** (EMF 2012) [1:06:43]
+* [Computers are a Sadness, I am the Cure](https://vimeo.com/95066828) by **James Mickens** (Monitorama PDX 2014) [27:35]
+* [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** (JVM Languages Summit 2009) [1:10:04]
+* [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** (Strange Loop 2011) [1:01:26]
+* [The Value of Values](https://www.infoq.com/presentations/Value-Values) by **Rich Hickey** (GOTO Copenhagen 2012) [58:53]
+* [Effective Programs - 10 Years of Clojure](https://www.youtube.com/watch?v=2V1FtfBDsLU) by **Rich Hickey** (Clojure/Conf 2017) [1:14:51]
+* [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by **Anil Dash** (Berkman Klein Center 2013) [1:10:54]
+* [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** (ACM OOPSLA 1998) [53:30]
+* [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** (Strange Loop 2014) [45:49]
+* [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** (Clojure/Conf 2013) [52:43]
+* [Simplify Challenging Software Problems with Rocket Science](https://www.youtube.com/watch?v=h1g1YyVO6j8) by **Bradley Grzesiak** (Rocky Mountain Ruby 2015) [23:07]
+* [A short history of Software Engineering, and other ideas that didn't work](https://www.youtube.com/watch?v=CnquVcxvAl0) by **Paolo Perrotta** (Barcelona Ruby Conference 2020) [36:35]
+* [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by **Linus Torvalds** (Google 2007) [1:10:14]
+* [The Worst Programming Language Ever](https://www.youtube.com/watch?v=vcFBwt1nu2U) by **Mark Rendle** (NDC Oslo 2021) [1:00:40]
+* [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) by **Carin Meier** (Strange Loop 2015) [36:00]
+* [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** (NDC 2014) [01:02:52]
+* [Programming is Writing is Programming](https://www.youtube.com/watch?v=uO3a4HIBDU4) by **Felienne Hermans** (NDC Oslo 2017) [55:46]
+* [We're Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) by **Paul Phillips** (Pacific Northwest Scala 2013) [50:42]
+* [Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM) by **Glenn Vanderburg** (Software Art Thou 2018) [1:07:57]
+* [Feature Branching Considered Evil](https://www.youtube.com/watch?v=h7LeD7VevyI) by **Thierry de Pauw** (DevTernity 2019) [49:38]
+* [Programming’s Greatest Mistakes](https://www.youtube.com/watch?v=qC_ioJQpv4E) by **Mark Rendle** (NDC Copenhagen 2022) [55:34]
+* [Email vs Capitalism, or, Why We Can't Have Nice Things](https://www.youtube.com/watch?v=mrGfahzt-4Q) by **Dylan Beattie** (NDC Oslo 2023) [56:45]
+* [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko) by **Jonathan Blow** (DevGAMM 2019) [01:02:41]
 
 #### Object-Oriented Programming
 
