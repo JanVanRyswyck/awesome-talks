@@ -41,7 +41,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [The Worst Programming Language Ever](https://www.youtube.com/watch?v=vcFBwt1nu2U) by **Mark Rendle** (NDC Oslo 2021) [1:00:40]
 * [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) by **Carin Meier** (Strange Loop 2015) [36:00]
 * [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** (NDC 2014) [01:02:52]
-* [5 WTFs in 6 LOCs](https://brightonruby.com/2016/five-wtfs-in-six-lines-of-code-dot-wingrove/) by **Dorothy Wingrove** (Brighton Ruby) [05:11]
+* [5 WTFs in 6 LOCs](https://brightonruby.com/2016/five-wtfs-in-six-lines-of-code-dot-wingrove/) by **Dorothy Wingrove** (Brighton Ruby 2016) [05:11]
 * [Programming is Writing is Programming](https://www.youtube.com/watch?v=uO3a4HIBDU4) by **Felienne Hermans** (NDC Oslo 2017) [55:46]
 * [We're Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) by **Paul Phillips** (Pacific Northwest Scala 2013) [50:42]
 * [Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM) by **Glenn Vanderburg** (Software Art Thou 2018) [1:07:57]
