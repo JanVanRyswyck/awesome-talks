@@ -54,6 +54,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 * [Functional is cool, but do you know OO](https://www.youtube.com/watch?v=oiFYPAel-KY) by **Sandro Mancuso** [54:17]
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
+* [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE) by **Sandi Metz** [35:52]
 
 #### Functional Programming
 
