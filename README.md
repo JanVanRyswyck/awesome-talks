@@ -164,6 +164,7 @@ There are a lot of screencasts, recordings of user group gatherings, and confere
 * [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) by **Robert C. Martin** (X/UP 2016) [01:18:20]
 * [1968](https://www.youtube.com/watch?v=KjgvffBlWAg) by **Kevlin Henney** (Beauty in Code 2018) [56:44]
 * [DOOM’s Development: A Year of Madness](https://www.youtube.com/watch?v=eBU34NZhW7I) by **John Romero** (WeAreDevelopers 2018) [44:12]
+* [The Boeing 737 MAX: When Humans and Technology Don't Mix](https://www.youtube.com/watch?v=opRbU6WZH9s) by **Kyle Kotowick** (NDC TechTown 2022) [01:00:45]
 
 #### Databases
 
