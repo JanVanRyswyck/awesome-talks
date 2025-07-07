@@ -47,7 +47,7 @@ There are a lot of screencasts, recordings of user group gatherings, and confere
 * [Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM) by **Glenn Vanderburg** (Software Art Thou 2018) [1:07:57]
 * [Feature Branching Considered Evil](https://www.youtube.com/watch?v=h7LeD7VevyI) by **Thierry de Pauw** (DevTernity 2019) [49:38]
 * [Programming’s Greatest Mistakes](https://www.youtube.com/watch?v=qC_ioJQpv4E) by **Mark Rendle** (NDC Copenhagen 2022) [55:34]
-* [Email vs Capitalism, or, Why We Can't Have Nice Things](https://www.youtube.com/watch?v=mrGfahzt-4Q) by **Dylan Beattie** (NDC Oslo 2023) [56:45]
+* [Email vs Capitalism: A Story About Why We Can't Have Nice Things](https://www.youtube.com/watch?v=U8mJCPpvu1I) by **Dylan Beattie** (Joy Of Coding 2023) [54:49]
 * [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko) by **Jonathan Blow** (DevGAMM 2019) [01:02:41]
 
 #### Object-Oriented Programming
