@@ -5,6 +5,7 @@ There are a lot of screencasts, recordings of user group gatherings, and confere
 
 (In no particular order)
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=JanVanRyswyck_awesome-talks) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ### Categories
   - [Software Development](#software-development)
   - [Object-Oriented Programming](#object-oriented-programming)
