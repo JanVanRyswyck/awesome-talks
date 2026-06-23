@@ -49,6 +49,7 @@ There are a lot of screencasts, recordings of user group gatherings, and confere
 * [Programming’s Greatest Mistakes](https://www.youtube.com/watch?v=qC_ioJQpv4E) by **Mark Rendle** (NDC Copenhagen 2022) [55:34]
 * [Email vs Capitalism: A Story About Why We Can't Have Nice Things](https://www.youtube.com/watch?v=U8mJCPpvu1I) by **Dylan Beattie** (Joy Of Coding 2023) [54:49]
 * [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko) by **Jonathan Blow** (DevGAMM 2019) [01:02:41]
+* [Being The Human in the Loop](https://www.youtube.com/watch?v=vpYJMr1pJRY) by **Kevlin Henney** (Agile Meets Architecture) [44:09]
 
 #### Object-Oriented Programming
 
