@@ -50,7 +50,7 @@ There are a lot of screencasts, recordings of user group gatherings, and confere
 * [Email vs Capitalism: A Story About Why We Can't Have Nice Things](https://www.youtube.com/watch?v=U8mJCPpvu1I) by **Dylan Beattie** (Joy Of Coding 2023) [54:49]
 * [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko) by **Jonathan Blow** (DevGAMM 2019) [01:02:41]
 * [Being The Human in the Loop](https://www.youtube.com/watch?v=vpYJMr1pJRY) by **Kevlin Henney** (Agile Meets Architecture 2026) [44:09]
-* [Rethinking Software Development - Insights From 20+ Years In The Field](https://www.youtube.com/watch?v=Ist6GO-LHb8) by **Alex Thurow** (DDD Hungary Meetup 2026) [01:25:17]
+* [Rethinking Software Development - Insights From 20+ Years In The Field](https://www.youtube.com/watch?v=Ist6GO-LHb8) by **Alexander Thurow** (DDD Hungary Meetup 2026) [01:25:17]
 
 #### Object-Oriented Programming
 
