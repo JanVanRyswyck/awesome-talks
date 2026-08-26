@@ -50,6 +50,7 @@ There are a lot of screencasts, recordings of user group gatherings, and confere
 * [Email vs Capitalism: A Story About Why We Can't Have Nice Things](https://www.youtube.com/watch?v=U8mJCPpvu1I) by **Dylan Beattie** (Joy Of Coding 2023) [54:49]
 * [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko) by **Jonathan Blow** (DevGAMM 2019) [01:02:41]
 * [Being The Human in the Loop](https://www.youtube.com/watch?v=vpYJMr1pJRY) by **Kevlin Henney** (Agile Meets Architecture 2026) [44:09]
+* [Rethinking Software Development - Insights From 20+ Years In The Field](https://www.youtube.com/watch?v=Ist6GO-LHb8) by **Alex Thurow** (DDD Hungary Meetup 2026) [01:25:17]
 
 #### Object-Oriented Programming
 
@@ -180,6 +181,10 @@ There are a lot of screencasts, recordings of user group gatherings, and confere
 #### Testing
 
 * [Acceptance Testing For Continuous Delivery](https://www.youtube.com/watch?v=s1Y454DTRtg) by **Dave Farley** (PIPELINE Conference 2015) [01:02:34]
+
+#### LLM
+
+* [Patterns for Coding with AI](https://www.youtube.com/watch?v=gTgEZsfyzoo) by **Lada Kesseler** (Craft 2026) [01:46:51]
 
 #### Cognitive Development
 
