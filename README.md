@@ -185,6 +185,7 @@ There are a lot of screencasts, recordings of user group gatherings, and confere
 #### LLM
 
 * [Patterns for Coding with AI](https://www.youtube.com/watch?v=gTgEZsfyzoo) by **Lada Kesseler** (Craft 2026) [01:46:51]
+* [The Agentic AI Engineer](https://aietalks.com/talks/the-agentic-ai-engineer) by **Benedikt Sanftl and Burak** (AI Engineer World's Fair 2026) [34:50]
 
 #### Cognitive Development
 
