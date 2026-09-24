@@ -16,6 +16,8 @@ There are a lot of screencasts, recordings of user group gatherings, and confere
   - [Computer History](#computer-history)
   - [Databases](#databases)
   - [Security](#security)
+  - [Testing](#testing)
+  - [LLM](#llm)
   - [Cognitive Development](#cognitive-development)
 
 #### Software Development
@@ -156,8 +158,7 @@ There are a lot of screencasts, recordings of user group gatherings, and confere
 * [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA) by **JB Rainsberger** (Øredev 2013) [00:07:42]
 * [Explaining Team Flow](https://www.youtube.com/watch?v=bhpQKA9XYcE) by **Michel Grootjans** (Michel Grootjans 2021) [14:30]
 * [The Efficiency Paradox](https://www.youtube.com/watch?v=hGJpez7rvc0) by **Niklas Modig** (TEDx Umeå 2016) [18:48]
-* [Extreme Product Development](https://www.youtube.com/watch?v=U6TA7atF4Y0) by **Peter Hilton** (Devoxx UK 2024) [47:53]
-* [LLM-assisted coding - A Systems Perspective](https://www.youtube.com/watch?v=eEA0gJnWLh0) by **Dragan Stepanović** (Al Agents Montreal) [01:20:45]
+* [LLM-assisted coding - A Systems Perspective](https://www.youtube.com/watch?v=eEA0gJnWLh0) by **Dragan Stepanović** (AI Agents Montreal) [01:20:45]
 
 #### Computer History
 
@@ -192,7 +193,7 @@ There are a lot of screencasts, recordings of user group gatherings, and confere
 * [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk) by **Derek Sivers** (YouTube/Derek Sivers 2014) [18:54]
 * [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346) by **Cory House** (NDC 2014) [59:12]
 * [Surviving the Framework Hype Cycle](https://www.youtube.com/watch?v=9zc4DSTRGeM) by **Brandon Hays** (Mountain West Ruby 2016) [35:26]
-* [Stop Treading Water - Learning to Learn](https://www.youtube.com/watch?v=Z8KcCU-p8QA) by **Edward Kmett** (YOW! 2014) [40:58]
+* [Stop Treading Water - Learning to Learn](https://www.youtube.com/watch?v=j0XmixCsWjs) by **Edward Kmett** (YOW! 2014) [40:58]
 * [The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) by **Randy Pausch** (Carnegie Mellon 2007) [1:16:26]
 * [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) by **Steve Jobs** (Stanford 2005) [15:04]
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by **Rich Hickey** (Clojure/Conj 2010) [39:48]
