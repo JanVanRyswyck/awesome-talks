@@ -158,6 +158,7 @@ There are a lot of screencasts, recordings of user group gatherings, and confere
 * [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA) by **JB Rainsberger** (Øredev 2013) [00:07:42]
 * [Explaining Team Flow](https://www.youtube.com/watch?v=bhpQKA9XYcE) by **Michel Grootjans** (Michel Grootjans 2021) [14:30]
 * [The Efficiency Paradox](https://www.youtube.com/watch?v=hGJpez7rvc0) by **Niklas Modig** (TEDx Umeå 2016) [18:48]
+* [Extreme Product Development](https://www.youtube.com/watch?v=U6TA7atF4Y0) by **Peter Hilton** (Devoxx UK 2024) [47:53]
 * [LLM-assisted coding - A Systems Perspective](https://www.youtube.com/watch?v=eEA0gJnWLh0) by **Dragan Stepanović** (AI Agents Montreal) [01:20:45]
 
 #### Computer History
