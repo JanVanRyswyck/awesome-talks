@@ -200,6 +200,7 @@ There are a lot of screencasts, recordings of user group gatherings, and confere
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by **Rich Hickey** (Clojure/Conj 2010) [39:48]
 * [Drive - The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=u6XAPnuFjJc) by **RSA Animate** (YouTube/RSA 2010) [10:47]
 * [Ideology](https://www.destroyallsoftware.com/talks/ideology) by **Gary Bernhardt** (Strange Loop 2015) [21:22]
+* [Grokking the Brain: What AI Reveals About How You Really Learn](https://www.youtube.com/watch?v=vD7fLhkU0lc) by **Barbara Oakly** (GOTO Copenhagen 2026) [49:55]
 
 ## License
 
